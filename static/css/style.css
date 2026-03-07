@@ -1,0 +1,61 @@
+#output_image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#btn1,#btn2,#btn3,#btn4,#btn5,#btn6,#btn7,#btn8,#btn9,#btn10{
+    background: #bddce2;
+    font-size: 25px;
+    font-weight:bold;
+    /*font-family: "Times New Roman";*/
+}
+
+#body1,#body2,#body3,#body4,#body5{
+    background: linear-gradient(#C4E0E5,#4CA1AF);
+}
+
+#body1-button,#body2-button,#body3-button,#body4-button,#body5-button{
+    font-size:23px;
+    font-weight: bold;
+}
+
+#component-83-button, #component-102-button,#component-113-button{
+    font-size: 22px;
+}
+
+#component-3,#component-14,#component-29,#component-62,#component-78,#component-81{
+    font-size:24px;
+}
+
+#component-30-button,#component-40-button,#component-50-button,#component-79-button,#component-82-button,#component-98-button,#component-101-button,#component-111-button{
+    font-size: 22px;
+}
+span.svelte-1gfkn6j,label.svelte-1b6s6s {
+    font-size:22px;
+}
+
+span.md.svelte-8tpqd2.prose{
+    font-size:22px;
+}
+
+textarea.scroll-hide.svelte-1f354aw {
+    font-size: 20px;
+}
+
+tr.file.svelte-18wv37q{
+    font-size: 20px;
+}
+
+input.border-none.svelte-1sk0pyu{
+    font-size:20px;
+}
+/* div.svelte-r3x3aw,p.svelte-1bvc1p0{
+    font-size: 22px;
+} */
+
+/* div#component-79 {
+    font-size: 22px;
+}
+
+
